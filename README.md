@@ -11,7 +11,7 @@
 > IMPORTANT: This project is a work in progress and subject to major changes until version 1.0.
 
 
-This is the official Web App of [Abraham Ukachi](https://github.com/abraham-ukachi), built using [Next.js](https://nextjs.org/), bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and initially deployed on [Vercel](https://github.com/vercel/next.js).
+This is the official Web App - portfolio + AI assistant - of [Abraham Ukachi](https://github.com/abraham-ukachi), built with ❤️ using [Next.js](https://nextjs.org/), bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and initially deployed on [Vercel](https://github.com/vercel/next.js).
 
 ## Getting Started
 

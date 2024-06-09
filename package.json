@@ -1,7 +1,7 @@
 {
   "name": "ab-nextjs-app",
   "version": "0.1.0",
-  "description": "The official web app of Abraham Ukachi built using Next.js and initially deployed on Vercel.",
+  "description": "The official web app - portfolio + AI assistant - of Abraham Ukachi built with ❤️ using Next.js and initially deployed on Vercel",
 
   "private": true,
 
@@ -14,13 +14,15 @@
     "url": "https://github.com/abraham-ukachi/ab-nextjs-app/issues"
   },
 
-  "homepage": "https://ab-nextjs-app.vercel.app/",
+  "homepage": "https://abraham-ukachi.vercel.app/",
 
   "keywords": [
     "official",
     "web-app",
     "abraham",
     "ukachi",
+    "portfolio",
+    "ai-assistant",
     "nextjs",
     "vercel"
   ],
