@@ -85,7 +85,7 @@ export default function Home() {
 
 
         {/* Footer */}
-        <footer className="absolute bottom-0 place-self-center flex flex-col items-center justify-center w-full h-auto">
+        <footer className="absolute bottom-0 place-self-center flex flex-col items-center justify-center w-full h-auto lg:relative lg:mt-12">
           {/* Github - Link */}
           <Link 
             href="https://github.com/abraham-ukachi/ab-nextjs-app" 
