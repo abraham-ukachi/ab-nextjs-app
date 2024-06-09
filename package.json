@@ -1,21 +1,16 @@
 {
   "name": "ab-nextjs-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The official web app - portfolio + AI assistant - of Abraham Ukachi built with ❤️ using Next.js and initially deployed on Vercel",
-
   "private": true,
-
   "repository": {
     "type": "git",
     "url": "https://github.com/abraham-ukachi/ab-nextjs-app"
   },
-
   "bugs": {
     "url": "https://github.com/abraham-ukachi/ab-nextjs-app/issues"
   },
-
   "homepage": "https://abraham-ukachi.vercel.app/",
-
   "keywords": [
     "official",
     "web-app",
@@ -26,22 +21,18 @@
     "nextjs",
     "vercel"
   ],
-
   "author": {
     "name": "Abraham Ukachi",
     "url": "https://github.com/abraham-ukachi",
     "email": "abraham.ukachi@laplateforme.io"
   },
-
   "license": "MIT",
-
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
-
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
