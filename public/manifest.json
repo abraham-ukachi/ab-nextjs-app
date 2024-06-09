@@ -76,14 +76,14 @@
 
   "screenshots": [
     {
-      "src": "assets/images/screenshots/mobile_screenshot_light.png",
+      "src": "assets/images/screenshots/mobile_screenshot_dark.png",
       "sizes": "430x932",
       "type": "image/png",
       "form_factor": "narrow"
     },
 
     {
-      "src": "assets/images/screenshots/laptop_screenshot_light.png",
+      "src": "assets/images/screenshots/laptop_screenshot_dark.png",
       "sizes": "1024x720",
       "type": "image/png",
       "form_factor": "wide"
