@@ -1,6 +1,6 @@
 {
   "name": "ab-nextjs-app",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The official web app - portfolio + AI assistant - of Abraham Ukachi built with ❤️ using Next.js and initially deployed on Vercel",
   "private": true,
   "repository": {
